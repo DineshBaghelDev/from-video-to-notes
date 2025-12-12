@@ -6,7 +6,6 @@
 
 **2. YouTube Transcript Extraction**
 - [YouTube Transcript API (pytube) Documentation](https://pypi.org/project/youtube-transcript-api/): Official guide to extracting captions from public YouTube videos with Python.
-- [How to extract YouTube Video Transcripts using Python (YouTube Video)](https://www.youtube.com/watch?v=Ok7Q2LGvQPI&pp=ygUWeW91dHViZSB0cmFuc2NyaXB0IGFwaQ%3D%3D): Step-by-step video demo for beginners using `youtube-transcript-api`.
 
 **3. Cleaning and Structuring Transcript Text**
 - [Text Preprocessing for NLP in Python (YouTube Video)](https://www.youtube.com/watch?v=6C0sLtw5ctc&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX&index=3&pp=iAQB): Learn basic transcript cleaning using Python and regular expressions.
