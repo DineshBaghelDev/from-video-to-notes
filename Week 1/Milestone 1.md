@@ -25,9 +25,10 @@ A Python script or notebook that:
    - Raw transcript data (`.json`)
 
 ## Folder Structure
-
+```
 Milestone 1/
 ├── transcript_extractor.py # or transcript_extractor.ipynb
 └── outputs/
 ├── <video_id>.txt
 └── <video_id>.json
+```
